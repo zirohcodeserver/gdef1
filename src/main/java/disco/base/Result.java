@@ -1,4 +1,4 @@
-package disco;
+package disco.base;
 
 import lombok.Getter;
 import lombok.Setter;

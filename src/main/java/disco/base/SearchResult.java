@@ -1,4 +1,4 @@
-package disco;
+package disco.base;
 
 import java.util.Vector;
 
