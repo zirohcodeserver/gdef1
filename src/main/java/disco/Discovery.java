@@ -1,7 +1,7 @@
 package disco;
 
 public interface Discovery {
-    Result register();
-    Result deregister();
-    Result find(String query);
+    Result register(AINode node);
+    Result deregister(String ainode);
+    SearchResult find(String query);
 }
